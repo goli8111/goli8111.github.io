@@ -1,12 +1,12 @@
 ---
-title: Writing a New Post
-author: Cotes Chung
-date: 2019-08-08 14:10:00 +0800
-categories: [Blogging, Tutorial]
+title: QA 자동화에 대한 생각
+author: goli8111
+date: 2020-12-15 12:00:00 +0800
+categories: [QA, Automation, Robot Framework]
 tags: [writing]
 ---
 
-## Naming and Path
+## QA 자동화
 
 Create a new file named `YYYY-MM-DD-TITLE.EXTENSION` and put it in the `_post/` of the root directory. Please note that the `EXTENSION` must be one of `md` and `markdown`.
 
